@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  username: postgres
+  password: 46697255Mi
+  pool: 5
+
+development:
+  <<: *default
+  database: chat_development
+
+test:
+  <<: *default
+  database: chat_test
+
+production:
+  <<: *default
+  database: chat_production
