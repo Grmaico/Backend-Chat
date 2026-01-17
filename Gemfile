@@ -71,3 +71,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "sendgrid-ruby", "~> 6.7"
+
+gem "letter_opener", "~> 1.10"
+
+gem "kaminari", "~> 1.2"
