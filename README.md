@@ -33,7 +33,6 @@ Este projeto implementa uma aplicação completa de troca de mensagens, com back
 3. Execute o servidor: `rails s` (porta 3000)
 
 ### Frontend (Vue.js)
-O frontend está em uma pasta separada (`C:\Users\Maico\FrontEnd_ChatEmail` ou similar).
 1. Navegue para a pasta do frontend.
 2. Instale dependências: `npm install`
 3. Execute: `npm run dev` (porta 5173)
