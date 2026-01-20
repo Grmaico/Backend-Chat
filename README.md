@@ -1,4 +1,4 @@
-# ChatEmail - Aplicação de Troca de Mensagens
+# Desafio para Desenvolvedor Júnior
 
 Este projeto implementa uma aplicação completa de troca de mensagens, com backend em Rails API e frontend em Vue.js, atendendo aos requisitos do desafio de desenvolvedor júnior.
 
